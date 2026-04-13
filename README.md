@@ -1,4 +1,4 @@
-# Linear Regression Project
+# Task3 - Linear Regression Project
 
 ## Objective
 To implement and understand simple and multiple linear regression.
